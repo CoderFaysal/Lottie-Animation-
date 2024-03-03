@@ -5,6 +5,10 @@
 ```
 implementation (libs.lottie)
 ```
+or
+```
+implementation ("com.airbnb.android:lottie:5.2.0")
+```
 
 ## XML (URL)
 
